@@ -24,7 +24,7 @@ Encoder • Decoder • Hasher
 -   `pip` (Python package installer)
 
 ### From PyPI (Recommended)
-*[ovaltinepy 0.1.5](https://pypi.org/project/ovaltinepy)*
+*[ovaltinepy 0.1.7](https://pypi.org/project/ovaltinepy)*
 ```bash
 pip install ovaltinepy
 ```
