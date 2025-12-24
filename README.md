@@ -24,7 +24,7 @@ Encoder • Decoder • Hasher
 -   `pip` (Python package installer)
 
 ### From PyPI (Recommended)
-*[ovaltinepy 0.1.7](https://pypi.org/project/ovaltinepy)*
+*[ovaltinepy 0.1.8](https://pypi.org/project/ovaltinepy)*
 ```bash
 pip install ovaltinepy
 ```
@@ -180,6 +180,6 @@ Contributions are welcome! Please feel free to submit issues, pull requests, or 
 <br>
 
 ## Updated On
-*``Dec 21, 2025``*
+*``Dec 23, 2025``*
 
 <br>
